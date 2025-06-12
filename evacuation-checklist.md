@@ -7,6 +7,7 @@
 - **Secondary:** Twin Oaks Valley Rd North to SR-76 West
 - **Avoid:** SR-78 East (often blocked during fires)
 - **Emergency Shelters:** Del Mar Fairgrounds, Oceanside High School
+- **Pet-Friendly Shelters:** Del Mar Fairgrounds (check current status)
 
 ## Documents & Essentials
 - [ ] IDs, passports, birth certificates
@@ -29,16 +30,27 @@
 - [ ] Snacks they'll actually eat
 - [ ] Activities for evacuation center
 
+## Pet Essentials
+- [ ] Pet carriers (1 per pet, labeled with info)
+- [ ] Pet food (3-5 days supply)
+- [ ] Extra water for pets (1/2 gallon/day per pet)
+- [ ] Pet medications (7+ days)
+- [ ] Bowls, leash, collar with ID tags
+- [ ] Recent pet photos (in case separated)
+- [ ] Vet records/vaccination proof
+- [ ] Comfort items (blanket, toy)
+- [ ] Litter/pee pads if needed
+- [ ] Pet first aid kit
+
 ## Vehicles
 - [ ] Gas up BOTH vehicles NOW (stations: Chevron on S Rancho Santa Fe, Shell on Grand)
 - [ ] Emergency kit in each
 - [ ] Paper maps (cell towers often fail)
 - [ ] First aid kit
-- [ ] Extra water in trunk
+- [ ] Extra water in trunk (for humans AND pets)
 
 ## Grab & Go
 - [ ] Important photos/digital backups
-- [ ] Pet supplies/carriers
 - [ ] Flashlights, battery radio
 - [ ] Non-perishable food (3 days)
 - [ ] Blankets/sleeping bags
